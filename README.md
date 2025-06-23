@@ -1,5 +1,7 @@
 # My Bluesky AI Posting Agent
 
+[![Run Daily AI Agent](https://github.com/BhargavBhandari90/my-bluesky-agent/actions/workflows/daily-agent.yml/badge.svg?branch=main)](https://github.com/BhargavBhandari90/my-bluesky-agent/actions/workflows/daily-agent.yml)
+
 This agent uses Google's Gemini to generate posts and publishes them to Bluesky.
 
 ## Setup
